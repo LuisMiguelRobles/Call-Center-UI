@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CallCenter"
+    }
+  },
+  "defaultProject": "CallCenter",
+  "cli": {
+    "analytics": "4614d125-9b8d-4bea-99f8-f1f71fadd420"
+  }
 }
